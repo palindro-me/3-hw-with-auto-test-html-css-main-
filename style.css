@@ -72,7 +72,7 @@ header span {
 
 .about-section .wrapper {
     /* 📍 Свойствa flexbox для отступов между элементами select, .info-wrapper и .skills-wrapper  */
-    padding: 100px 150px;
+    gap: 60px;
 }
 
 select {
